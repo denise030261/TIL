@@ -7,8 +7,10 @@
 - 게임수학 9강 공부 
 - 월드->뷰 변환
 - 프로토타입 편집 모드 구현
+- Lighting 학습
 
 ## 오늘 배운 것
 
 -  월드->뷰 변환
 -  크루스칼 알고리즘, 프림 알고리즘 복습
+- Point Light, Specular Reflection, Diffuse Reflection 다시 학습
